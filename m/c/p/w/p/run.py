@@ -2,7 +2,6 @@ from src.Agent import get_agent_executor, get_output_response
 
 def run():
     agent_executor = get_agent_executor()
-    output_response = get_output_response()
 
     while True:
         try:
