@@ -7,7 +7,6 @@ def run():
         try:
                                "图片地址：https://github.com/heelenzhang/Agent/blob/main/assets/demo_pic_2.jpeg?raw=true\n请输入您的问题：")
             response = agent_executor.run(user_input)
-            output_response(response)
         except KeyboardInterrupt:
             break
 
