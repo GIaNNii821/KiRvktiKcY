@@ -44,7 +44,6 @@ IndentWidth: 4
 # OC block后面的缩进
 ObjCBlockIndentWidth: 4
 #tab键盘的宽度
-TabWidth: 4
 Standard:        Cpp11
 UseTab:          Never
 CompactNamespaces: false
