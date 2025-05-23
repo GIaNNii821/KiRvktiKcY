@@ -87,7 +87,6 @@ permanent ban.
 ### 3. Temporary Ban
 
 **Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
 
 **Consequence**: A temporary ban from any sort of interaction or public
 communication with the community for a specified period of time. No public or
