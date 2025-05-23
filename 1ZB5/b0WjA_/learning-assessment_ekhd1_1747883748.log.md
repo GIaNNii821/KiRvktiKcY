@@ -20,7 +20,6 @@ community include:
   and learning from the experience
   overall community
 
-Examples of unacceptable behavior include:
 
   advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
