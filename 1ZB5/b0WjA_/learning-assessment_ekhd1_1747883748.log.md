@@ -79,7 +79,6 @@ of actions.
 **Consequence**: A warning with consequences for continued behavior. No
 those enforcing the Code of Conduct, for a specified period of time. This
 includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
 ### 3. Temporary Ban
