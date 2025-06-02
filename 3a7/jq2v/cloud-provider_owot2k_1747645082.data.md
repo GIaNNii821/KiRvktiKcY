@@ -264,7 +264,6 @@
 - Module source now is prefixed with `./` as expected
   ([PR #209](https://github.com/cycloidio/terracognita/pull/209))
 
-## [0.7.0] _2021-07-02_
 
 ### Fixed
 
